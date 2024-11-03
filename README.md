@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android apps using Kotlin, Jetpack Compose<br>👯 I’m looking to collaborate on Open-source Android projects<br>🌱 I’m currently learning AIML, UIUX, Flutter <br>💬 Ask me about Native Android development ,KMP <br>⚡ Fun fact I’m learning Japanese alongside coding!
+🔭 I’m currently working on Android apps using Kotlin, Jetpack Compose<br>👯 I’m looking to collaborate on Open-source Android projects<br>🌱 I’m currently learning Cloud, UIUX, Flutter <br>💬 Ask me about Native Android development ,KMP <br>⚡ Fun fact I’m learning Japanese alongside coding!
 
 
 ## 🌐 Socials:
